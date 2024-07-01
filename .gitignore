@@ -8,7 +8,7 @@ target/
 .classpath
 .project
 .settings/
-.application.properties
+application.properties
 
 ### STS ###
 .apt_generated
